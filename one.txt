@@ -3,3 +3,5 @@ Hadoop
 AWS Infrastructure
 
 Hive Data Warehouse
+Aakash content
+new batch of deloitte
